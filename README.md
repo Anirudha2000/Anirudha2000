@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anirudha2000
 - 👀 I’m interested in ... Webpage designing
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Clg project
+- 🌱 I’m currently learning ... JAVA
+- 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... anirudhamukherjee90@gmail.com
 
 <!---
