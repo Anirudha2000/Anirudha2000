@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anirudha2000
-- 👀 I’m interested in ... Webpage designing
+- 👀 I’m interested in ... WEB-DEV
 - 🌱 I’m currently learning ... MERN
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... anirudhamukherjee90@gmail.com
