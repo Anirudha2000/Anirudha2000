@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫 About Me:<br>👋 Hi, I’m @Anirudha2000<br>👀 I’m interested in ... WEB-DEV<br>🌱 I’m currently learning ... MERN<br>💞️ I’m looking to collaborate on ... Projects<br>📫 How to reach me ... anirudhamukherjee90@gmail.com
+# 👋 Hi, I’m @Anirudha2000
+💫 About Me:<br>👀 I’m interested in ... WEB-DEV<br>🌱 I’m currently learning ... MERN<br>💞️ I’m looking to collaborate on ... Projects<br>📫 How to reach me ... anirudhamukherjee90@gmail.com
 
 
 ## 🌐 Socials:
