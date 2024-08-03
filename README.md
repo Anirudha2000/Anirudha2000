@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Anirudha2000
+# 👋 Hi, I’m Anirudha Mukherjee
 💫 About Me:<br>👀 I’m interested in ... WEB-DEV<br>🌱 I’m currently learning ... MERN<br>💞️ I’m looking to collaborate on ... Projects<br>📫 How to reach me ... anirudhamukherjee90@gmail.com
 
 
