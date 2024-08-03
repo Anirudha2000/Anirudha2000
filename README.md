@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudha Mukherjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/anirudha_3000" target="blank"><img src="https://img.shields.io/twitter/follow/anirudha_3000?logo=twitter&style=for-the-badge" alt="anirudha_3000" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudha2000&label=Profile%20views&color=0e75b6&style=flat" alt="anirudha2000" /> </p>
 
 - 👀 I’m interested in **WEB-DEV**
 
