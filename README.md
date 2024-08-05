@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anirudhamukherjee90@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1XCHoPRZezwkDHPCl78WEC7MoVEElS5wN/view?usp=sharing
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XCHoPRZezwkDHPCl78WEC7MoVEElS5wN/view?usp=sharing](https://drive.google.com/file/d/1XCHoPRZezwkDHPCl78WEC7MoVEElS5wN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +25,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudha2000&show_icons=true&locale=en&layout=compact&theme=dark" alt="anirudha2000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anirudha2000&theme=dark" alt="anirudha2000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudha2000&show_icons=true&locale=en&theme=dark" alt="anirudha2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha2000&theme=dark" alt="anirudha2000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha2000&&theme=dark" alt="anirudha2000" /></p>
