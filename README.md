@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anirudhamukherjee90@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10U0Fm__E9fh9PFzlKVo-fvchnhjbUS3Y/view?usp=drive_link](https://drive.google.com/file/d/10U0Fm__E9fh9PFzlKVo-fvchnhjbUS3Y/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1XCHoPRZezwkDHPCl78WEC7MoVEElS5wN/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
