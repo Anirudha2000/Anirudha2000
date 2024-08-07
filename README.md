@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XCHoPRZezwkDHPCl78WEC7MoVEElS5wN/view?usp=sharing](https://drive.google.com/file/d/1XCHoPRZezwkDHPCl78WEC7MoVEElS5wN/view?usp=sharing)
 
+- ⚡ Fun fact : **Bill Gates, Microsoft’s co-founder, developed his first computer software, a tic-tac-toe program that allowed people to play games against the machine.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anirudha_3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudha_3000" height="30" width="40" /></a>
